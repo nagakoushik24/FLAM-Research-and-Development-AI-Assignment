@@ -1,0 +1,12 @@
+{
+    "theta_radians": 0.490759201,
+    "theta_degrees": 28.118431,
+    "M": 0.021388964,
+    "X": 54.902695,
+    "metrics": {
+      "mean_L1_per_point": 25.243397,
+      "median_L1_per_point": 22.281688,
+      "total_L1": 37865.094767
+    }
+  }
+  
