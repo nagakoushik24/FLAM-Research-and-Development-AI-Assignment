@@ -210,4 +210,6 @@ $$
 
 **If referring to this work, cite as:**
 
-“Curve Parameter Estimation using Python Optimization — Research and Development / AI Assignment, by Naga Koushik, Amrita Vishwa Vidyapeetham, 2025.”
+"Storn, R., & Price, K. (1997). Differential Evolution – A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces. Journal of Global Optimization, 11, 341–359. DOI:10.1023/A:1008202821328."
+
+"üttler, B. (1998). Curve fitting parametric spline curves ℓ₁- and ℓ∞-approximation. Computing, (… ) (World Scientific)."
