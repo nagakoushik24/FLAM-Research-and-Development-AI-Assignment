@@ -1,6 +1,6 @@
 # 🎯 Research and Development / AI – Parametric Curve Fitting Assignment
 
-## ✅ Final Estimated Parameter Values (Best Fit)
+## Final Estimated Parameter Values (Best Fit)
 
 (These were found by minimizing the **mean L1 error** between observed points and the parametric curve sampled at the given *t* values.)
 
@@ -175,7 +175,6 @@ print("M:", M_opt, "X:", X_opt)
 $$
 \left(t \cdot \cos(0.490759201) - e^{0.021388964|t|} \cdot \sin(0.3t) \cdot \sin(0.490759201) + 54.902695, 42 + t \cdot \sin(0.490759201) + e^{0.021388964|t|} \cdot \sin(0.3t) \cdot \cos(0.490759201)\right)
 $$
-(Desmos-compatible format)
 
 ## Visualization
 
