@@ -4,15 +4,12 @@
 
 (These were found by minimizing the **mean L1 error** between observed points and the parametric curve sampled at the given *t* values.)
 
-$$
-\theta = 0.490759201 \text{ rad} = 28.118431^\circ
-$$
-$$
-M = 0.021388964
-$$
-$$
-X = 54.902695
-$$
+| Symbol | Values            |
+|:-------:|:----------------:|
+| θ (rad) | 0.490759201      | 
+| θ (°)   | 28.118431        | 
+| M       | 0.021388964      |
+| X       | —                |
 
 ---
 
