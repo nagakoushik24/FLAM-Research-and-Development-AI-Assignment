@@ -187,6 +187,8 @@ $$
   Line plot of error variation with the parameter \( t \).
   ![L1 Error vs t](images/l1_error_vs_t.png)
 
+- **Desmos Plotting of Equation with our Predicted Parameter:** 
+  ![L1 Error vs t](images/desmos_plot.png)
 
 ---
 
